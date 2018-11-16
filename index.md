@@ -10,3 +10,5 @@
 ## Gitの使い方
 
 [こちら](/git-cheat-sheet-education.pdf)にGitの使い方をまとめたPDFがあるので参照して下さい。
+
+<img src="/hula_loop_octodex03.gif" width="100px">
